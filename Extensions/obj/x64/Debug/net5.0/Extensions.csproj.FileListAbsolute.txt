@@ -1,0 +1,7 @@
+C:\Users\kanka\source\repos\Extensions\Extensions\obj\x64\Debug\net5.0\Extensions.csproj.AssemblyReference.cache
+C:\Users\kanka\source\repos\Extensions\Extensions\obj\x64\Debug\net5.0\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanka\source\repos\Extensions\Extensions\obj\x64\Debug\net5.0\Extensions.AssemblyInfoInputs.cache
+C:\Users\kanka\source\repos\Extensions\Extensions\obj\x64\Debug\net5.0\Extensions.AssemblyInfo.cs
+C:\Users\kanka\source\repos\Extensions\Extensions\obj\x64\Debug\net5.0\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\kanka\source\repos\Extensions\Extensions\obj\x64\Debug\net5.0\Extensions.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kanka\source\repos\Extensions\Extensions\obj\x64\Debug\net5.0\Extensions.MvcApplicationPartsAssemblyInfo.cache
